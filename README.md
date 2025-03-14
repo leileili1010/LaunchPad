@@ -1,9 +1,5 @@
 # LaunchPad
 
-### Link to live site:
-
-https://launchpad-4kav.onrender.com/
-
 ### Index
 
 [Feature List](https://github.com/bthompson1223/LaunchPad/wiki/Feature-List) | [Database Schema](https://github.com/bthompson1223/LaunchPad/wiki/LaunchPad-DB-Schema) | [User Stories](https://github.com/bthompson1223/LaunchPad/wiki/User-Stories)
